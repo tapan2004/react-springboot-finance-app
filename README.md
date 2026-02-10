@@ -137,7 +137,7 @@ finance-app/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/react-springboot-finance-app.git
+git clone https://github.com/tapan2004/react-springboot-finance-app.git
 
 2️⃣ Backend Setup (Spring Boot)
 cd backend
